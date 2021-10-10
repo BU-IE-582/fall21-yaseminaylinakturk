@@ -1,4 +1,4 @@
-# Welcome to Yasemin Aylin Aktürk-Varol Progress Journal
+# Welcome to Yasemin Aylin Aktürk-Varol's Progress Journal
 
 This is my Progress Journal Website created for IE 582 course at Bogazici University.
 
