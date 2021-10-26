@@ -3,8 +3,8 @@
 This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-yaseminaylinakturk/) created for IE 582 course at Bogazici University.
 
 ## Homework1
-This is the [home work description.] (https://github.com/BU-IE-582/fall21-yaseminaylinakturk/blob/gh-pages/HW1/IE582_Fall21_Homework1.pdf/)
+This is the [home work description] (https://github.com/BU-IE-582/fall21-yaseminaylinakturk/blob/gh-pages/HW1/IE582_Fall21_Homework1.pdf/).
 
-This is [my approach for HW#1]
+This is [my approach for HW#1].
 
 
