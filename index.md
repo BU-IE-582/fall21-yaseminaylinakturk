@@ -12,5 +12,5 @@ This is [my approach for HW#1](https://bu-ie-582.github.io/fall21-yaseminaylinak
 
 This is the [homework description](https://bu-ie-582.github.io/fall21-yaseminaylinakturk/HW2/IE582_Fall21_Homework2.pdf).
 
-This is [my approach for HW#2 ](https://bu-ie-582.github.io/fall21-yaseminaylinakturk//HW2/HW%231-Yasemin%20Aylin%20Akt%C3%BCrk%20(2020802000).html): Dimensionality reduction & Reconstructing Turkey Map & Dimensionality reduction for time series data
+This is [my approach for HW#2 ](https://bu-ie-582.github.io/fall21-yaseminaylinakturk//HW2/HW%232-Yasemin%20Aylin%20Akt%C3%BCrk%20(2020802000).html): Dimensionality reduction & Reconstructing Turkey Map & Dimensionality reduction for time series data
 
