@@ -14,3 +14,8 @@ This is the [homework description](https://bu-ie-582.github.io/fall21-yaseminayl
 
 This is [my approach for HW#2 ](https://bu-ie-582.github.io/fall21-yaseminaylinakturk//HW2/HW%232-Yasemin%20Aylin%20Akt%C3%BCrk%20(2020802000).html): Dimensionality reduction & Reconstructing Turkey Map & Dimensionality reduction for time series data
 
+## Homework3
+
+This is the [homework description](https://bu-ie-582.github.io/fall21-yaseminaylinakturk/HW2/IE582_Fall21_Homework3.pdf).
+
+This is [my approach for HW#3 ](): On the use of distance information for UwaveGesture Recognition Task &  Linear models on alternative representations of the data
