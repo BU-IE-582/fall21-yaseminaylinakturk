@@ -18,4 +18,4 @@ This is [my approach for HW#2 ](https://bu-ie-582.github.io/fall21-yaseminaylina
 
 This is the [homework description](https://bu-ie-582.github.io/fall21-yaseminaylinakturk/HW3/IE582_Fall21_Homework3.pdf).
 
-This is [my approach for HW#3 ](): On the use of distance information for UwaveGesture Recognition Task &  Linear models on alternative representations of the data
+This is [my approach for HW#3 ](https://bu-ie-582.github.io/fall21-yaseminaylinakturk//HW3/HW%233-Yasemin%20Aylin%20Akt%C3%BCrk%20(2020802000).html): On the use of distance information for UwaveGesture Recognition Task &  Linear models on alternative representations of the data
