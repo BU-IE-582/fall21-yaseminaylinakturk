@@ -32,4 +32,4 @@ This is the [project description](https://bu-ie-582.github.io/fall21-yaseminayli
 
 This is [our report for the project](): Project report: Gender Prediction Using Clickstream Data
 
-This is [the codes for the project](): R-Codes: Gender Prediction Using Clickstream Data
+This is [the codes for the project](https://bu-ie-582.github.io/fall21-yaseminaylinakturk/Project/project_akturk_sener.R): R-Codes: Gender Prediction Using Clickstream Data 
