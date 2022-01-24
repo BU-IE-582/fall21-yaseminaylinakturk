@@ -30,6 +30,6 @@ This is [my approach for HW#4 ](https://bu-ie-582.github.io/fall21-yaseminaylina
 
 This is the [project description](https://bu-ie-582.github.io/fall21-yaseminaylinakturk/Project/IE582_Fall21_Project.pdf).
 
-This is [our report for the project](): Project report: Gender Prediction Using Clickstream Data
+This is [our report for the project](https://bu-ie-582.github.io/fall21-yaseminaylinakturk/Project/Project-Group3-akturk-sener.html).: Project report: Gender Prediction Using Clickstream Data
 
 This is [the codes for the project](https://bu-ie-582.github.io/fall21-yaseminaylinakturk/Project/project_akturk_sener.R).: R-Codes: Gender Prediction Using Clickstream Data 
