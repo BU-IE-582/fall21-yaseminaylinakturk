@@ -25,3 +25,11 @@ This is [my approach for HW#3 ](https://bu-ie-582.github.io/fall21-yaseminaylina
 This is the [homework description](https://bu-ie-582.github.io/fall21-yaseminaylinakturk/HW4/IE582_Fall21_Homework4.pdf).
 
 This is [my approach for HW#4 ](https://bu-ie-582.github.io/fall21-yaseminaylinakturk//HW4/HW%234-Yasemin%20Aylin%20Akt%C3%BCrk%20(2020802000).html): Multiple Instance Learning
+
+## Project
+
+This is the [project description](https://bu-ie-582.github.io/fall21-yaseminaylinakturk/Project/IE582_Fall21_Project.pdf).
+
+This is [our report for the project](): Project report: Gender Prediction Using Clickstream Data
+
+This is [the codes for the project](): R-Codes: Gender Prediction Using Clickstream Data
