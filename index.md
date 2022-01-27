@@ -26,6 +26,12 @@ This is the [homework description](https://bu-ie-582.github.io/fall21-yaseminayl
 
 This is [my approach for HW#4 ](https://bu-ie-582.github.io/fall21-yaseminaylinakturk//HW4/HW%234-Yasemin%20Aylin%20Akt%C3%BCrk%20(2020802000).html): Multiple Instance Learning
 
+## Homework5
+
+This is the [homework description](https://bu-ie-582.github.io/fall21-yaseminaylinakturk/HW5/IE582_Fall21_Final_Exam.pdf).
+
+This is [my approach for HW#5 ](https://bu-ie-582.github.io/fall21-yaseminaylinakturk//HW5/HW%235-Yasemin%20Aylin%20Akt%C3%BCrk%20(2020802000).html): Credit Scoring & Instance Based Misclassification Cost
+
 ## Project
 
 This is the [project description](https://bu-ie-582.github.io/fall21-yaseminaylinakturk/Project/IE582_Fall21_Project.pdf).
